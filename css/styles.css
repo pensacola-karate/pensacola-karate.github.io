@@ -41,7 +41,7 @@ hr {
 
 .copyright {
   color: #fa9add;
-  font-size: 0.75rem;
+  font-size: 1rem;
   padding: 20px;
 }
 
@@ -99,12 +99,12 @@ Palette:
 
 /* Visited */
 .footer-link:visited {
-	 color: gray;
+	 color: #F09F76;
 }
 
 /* Unvisited */
 .footer-link:link {
-	 color: gray;
+	 color: #F09F76;
 }
 
 /* Visited */
@@ -112,7 +112,9 @@ Palette:
 	 color: rgb(16, 26, 16);
 }
 
-
+.footer-bg {
+  background-color: #306383;
+}
 .btn:hover {
   background: #0a2435;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
