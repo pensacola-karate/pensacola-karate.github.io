@@ -94,23 +94,24 @@ Palette:
 
 /* Visited */
 .body-link:visited {
-	 color: red;
+	 color: gray;
 }
 
 /* Visited */
 .footer-link:visited {
-	 color: #F0A667;
+	 color: gray;
 }
 
 /* Unvisited */
 .footer-link:link {
-	 color: #F0A667;
+	 color: gray;
 }
 
 /* Visited */
 .footer-link:hover {
-	 color: green;
+	 color: rgb(16, 26, 16);
 }
+
 
 .btn:hover {
   background: #0a2435;
