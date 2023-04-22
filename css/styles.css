@@ -115,6 +115,15 @@ Palette:
 .footer-backg {
   background-color: #306383;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 2rem;
+}
+
+
 .btn:hover {
   background: #0a2435;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
