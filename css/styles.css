@@ -1,8 +1,10 @@
 
 body {
+  height: 100%;
   text-align: center;
-  margin: 0 auto 0 auto;
-  background-color: #f7f7f7;
+  margin:0px;
+  padding: 0px;
+  background-color: #f7f7f7; 
 }
 
 .top-row {
@@ -112,17 +114,39 @@ Palette:
 	 color: rgb(16, 26, 16);
 }
 
-.footer-backg {
-  background-color: #306383;
-}
 
-.footer {
+.footer-index {
   position: absolute;
   bottom: 0;
   width: 100%;
   padding-top: 2rem;
+  background-color: #306383;
 }
 
+.footer {
+  background-color: #306383;
+  bottom: 0;
+  margin-top: 2rem;
+  padding-top: 2rem;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 13rem;    /* Footer height */
+}
+
+#footer {
+  background-color: #306383;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 3rem;
+  height: 10rem;         /*   Footer height*/
+}
 
 .btn:hover {
   background: #0a2435;
