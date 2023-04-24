@@ -14,7 +14,6 @@ body {
   width: 50%;
 }
 
-
 h1 {
   font-size: 5em;
   margin-top: 0;
@@ -103,7 +102,7 @@ hr {
 footer {
   /* padding-top: 20px; */
   background-color: #306383;
-  height: 130px;
+  height: 100px;
 }
 
 .btn:hover {
