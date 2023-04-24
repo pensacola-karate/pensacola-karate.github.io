@@ -7,13 +7,6 @@ body {
   background-color: #f7f7f7; 
 }
 
-.top-row {
-  line-height: 1;
-  text-align: left;
-  margin: 100px auto 100px auto;
-  width: 50%;
-}
-
 h1 {
   font-size: 5em;
   margin-top: 0;
@@ -43,7 +36,7 @@ hr {
 .copyright {
   color: #fa9add;
   font-size: 1rem;
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 .dojo-img {
@@ -102,7 +95,7 @@ hr {
 footer {
   /* padding-top: 20px; */
   background-color: #306383;
-  height: 100px;
+  height: 60px;
 }
 
 .btn:hover {
