@@ -74,11 +74,11 @@ hr {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-
+/* 
 .bottom-container {
   background-color: #306383;
   padding: 50px 0 20px;
-}
+} */
 
 /*
 Palette:
@@ -130,22 +130,29 @@ Palette:
   padding-top: 2rem;
 }
 
-#page-container {
+/* #page-container {
   position: relative;
   min-height: 100vh;
-}
+} */
 
-#content-wrap {
-  padding-bottom: 13rem;    /* Footer height */
-}
+/* #content-wrap {
+  padding-bottom: 13rem;  
+} */
 
-#footer {
+/* #footer {
   background-color: #306383;
   position: absolute;
   bottom: 0;
   width: 100%;
   padding-top: 3rem;
-  height: 10rem;         /*   Footer height*/
+  height: 10rem;        
+} 
+*/
+
+footer {
+  padding-top: 20px;
+  background-color: #306383;
+  height: 130px;
 }
 
 .btn:hover {
