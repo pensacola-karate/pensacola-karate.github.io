@@ -44,7 +44,7 @@ hr {
 .copyright {
   color: #fa9add;
   font-size: 1rem;
-  padding: 20px;
+  padding: 10px;
 }
 
 .dojo-img {
@@ -101,7 +101,7 @@ hr {
 }
 
 footer {
-  padding-top: 20px;
+  /* padding-top: 20px; */
   background-color: #306383;
   height: 130px;
 }
